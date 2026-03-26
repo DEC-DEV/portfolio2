@@ -1,2 +1,6 @@
-# portfolio2
-dco class for aws
+# myportfolio
+컴퓨터구조 및 운영체제 수업 과제 및 학습 자료를 정리한 저장소입니다.
+
+## 학습 내용
+- 컴퓨터구조
+- 운영체제
